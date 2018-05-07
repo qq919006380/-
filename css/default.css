@@ -1,0 +1,38 @@
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      transition : 1s;
+    }
+    *::after{
+      box-sizing:border-box
+    }
+    *::before{
+      box-sizing:border-box
+    }
+    body{
+    	display: flex;
+    	flex-direction: column;
+    	height: 100vh;
+    }
+    .code-wrapper{
+    	flex: 1;
+    	height: 50%;
+    	padding: 10px;
+    }
+    .previow-wrapper{
+    	flex: 1;
+    	height: 50%;
+    }
+    /*body{
+      height:100vh;
+      border:1px solid green;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      background:#fee433
+    }*/
+   #code{
+   	overflow: hidden;
+   	height: 100%;
+   }
