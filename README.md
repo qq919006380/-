@@ -1,4 +1,5 @@
-# 皮卡丘
+# 皮卡丘 预览地址[https://qq919006380.github.io/Draw-a-Picacho/](https://qq919006380.github.io/Draw-a-Picacho/)
+
 # 代码
 - setInterval substring
 # 调整
